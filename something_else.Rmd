@@ -1,0 +1,8 @@
+---
+title: "Untitled"
+author: "Trine Line Hauge Okholm"
+date: "18/7/2017"
+output: html_document
+---
+
+Something else I thought to add.
