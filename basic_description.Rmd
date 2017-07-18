@@ -1,0 +1,8 @@
+---
+title: "Basic Description"
+author: "Trine Line Hauge Okholm"
+date: "18/7/2017"
+output: html_document
+---
+
+Here's some stuff to start things off
